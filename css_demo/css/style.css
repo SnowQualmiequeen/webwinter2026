@@ -1,0 +1,39 @@
+
+
+.container {
+    width: 1000px;
+    margin: 0 auto; 
+    padding: 45px;
+    background-color: yellow;
+    border: 7px solid cyan
+}
+.nav {
+    list-style: none;
+    text-align: center; 
+}
+
+.nav li { 
+    display:inline;
+    margin-right: 20px; 
+}
+.div-test {
+    background-image: url(/images/greysplashimage.jpg);
+    text-align: center;
+    color: rgba(193, 192, 255, 0.146);
+}
+
+.span1 {
+    font-size: 25px;
+    color:blue;
+
+}
+
+.span2 {
+    font-size:20px;
+    color:goldenrod;
+}
+
+.span3 {
+    font-size:15px;
+    color:blueviolet;
+}
